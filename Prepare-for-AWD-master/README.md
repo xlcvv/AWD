@@ -1,11 +1,6 @@
-![](https://blog-1252108140.cosbj.myqcloud.com/201910/1571274472.8948846.png)
-
-如果您喜欢的话，希望您可以关注一下我们的微信公众号。
-
 # AWD线下赛脚本集合
 ## 目录结构
 <pre><code>
-###########
 ├── Readme.md               // 帮助文档 
 ├── Attack                  // 批量&攻击型脚本
 │   ├── GetFlag.py          //用shell来批量getflag
